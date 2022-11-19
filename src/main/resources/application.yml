@@ -3,3 +3,15 @@ server:
 
 api:
   isSandBoxMode : true
+
+#api:
+#  isSandBoxMode : true
+#springdoc:
+#  api-docs:
+#    enabled: true
+#    path: /v3/api-docs
+#
+#  swagger-ui:
+#    url: /v3/api-docs
+#    config-url: /v3/api-docs/swagger-config
+#    path: /swagger-ui.html
